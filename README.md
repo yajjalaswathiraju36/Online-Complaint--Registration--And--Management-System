@@ -6,7 +6,11 @@ npm install
 
 
 npm start
+
 Node.js
+
 Express.js
+
 MongoDB
+
 React.js: 
